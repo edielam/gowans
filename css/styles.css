@@ -165,9 +165,6 @@ color: #FFFFFF;
   height: auto;
   padding: 22px 15px 21px;
 }
-.navbar-brand h2{
-  color:#C3360B;
-}
 @media only screen and (min-width: 768px) {
   #main-nav.navbar-default {
     background: #FFFFFF;
